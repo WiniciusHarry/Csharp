@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
-// Tipos de dados primitivos 
+﻿// Tipos de dados primitivos 
 
 short ano = 2025;
 

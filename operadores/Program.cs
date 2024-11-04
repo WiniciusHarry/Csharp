@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-// Operadores aritimedicos
+﻿// Operadores aritimedicos
 
 double resultado = 10 + 8 + 12 / 3;
 Console.WriteLine(resultado);
@@ -28,11 +26,11 @@ bool a3 = true;
 bool b3 = false;
 Console.WriteLine(a3 ^ b3);
 
-// Pecedencia:
-// Not logico ! (nao)
-// And logico && (E)
-// Or logico || (ou)
-// Xor logico ^ (ou exclusivo)
+// Precedencia:
+// 1-Not logico ! (nao)
+// 2-And logico && (E)
+// 3-Or logico || (ou)
+// 4-Xor logico ^ (ou exclusivo)
 // Exemplos 1:
 bool x = true;
 bool y = false;
