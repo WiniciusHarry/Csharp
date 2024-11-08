@@ -94,3 +94,9 @@ switch (letraMinuscula)
         Console.WriteLine($"A letra '{letraMinuscula}' nao e uma vogal.");
         break;
 }
+
+// Operador Ternario
+
+int idade = 18
+string mensagem = idade >= 18 ? "Maior de idade" : "Menor de idade";
+Console.WriteLine(mensagem);
