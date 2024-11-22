@@ -1,6 +1,6 @@
 ﻿// 01 
 using System;
-namespace classes.veiculo
+namespace exercicioDeClasse.veiculo
 {
     public class veiculo
     {
