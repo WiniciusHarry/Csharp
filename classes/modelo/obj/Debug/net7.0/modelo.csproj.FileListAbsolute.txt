@@ -1,0 +1,4 @@
+C:\Users\SENAC\Documents\GitHub\Csharp\classes\modelo\obj\Debug\net7.0\modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\Csharp\classes\modelo\obj\Debug\net7.0\modelo.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\Csharp\classes\modelo\obj\Debug\net7.0\modelo.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\Csharp\classes\modelo\obj\Debug\net7.0\modelo.csproj.CoreCompileInputs.cache
